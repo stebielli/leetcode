@@ -1,10 +1,10 @@
 package it.bielli.leetcode;
 
+/**
+ * https://leetcode.com/problems/longest-palindromic-substring/
+ */
 public class Exercise1 {
 
-    /**
-     * https://leetcode.com/problems/longest-palindromic-substring/
-     */
     public String longestPalindrome(String s) {
         if (s == null || s.length() < 1) return "";
         int start = 0, end = 0;
