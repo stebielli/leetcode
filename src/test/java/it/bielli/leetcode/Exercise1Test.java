@@ -18,26 +18,52 @@ public class Exercise1Test {
         ex = new Exercise1();
     }
 
-    @Test
-    void test0() {
-        assertEquals("b", ex.longestPalindrome("b"));
+    private void testCase(String input, String output) {
+        assertEquals(output, ex.longestPalindrome(input));
     }
 
     @Test
-    @Disabled
     void test1() {
-        assertEquals("bab", ex.longestPalindrome("babad"));
+        testCase("b", "b");
     }
 
     @Test
-    @Disabled
     void test2() {
-        assertEquals("bb", ex.longestPalindrome("cbbd"));
+        testCase("bb", "bb");
     }
 
     @Test
-    @Disabled
     void test3() {
-        assertEquals("assaassa", ex.longestPalindrome("poprorpassaassad"));
+        testCase("aba", "aba");
+    }
+
+    @Test
+    void test4() {
+        testCase("abc", "c");
+    }
+
+    @Test
+    void test5() {
+        testCase("baa", "aa");
+    }
+
+    @Test
+    void test6() {
+        testCase("aab", "aa");
+    }
+
+    @Test
+    void test7() {
+        testCase("babad", "aba");
+    }
+
+    @Test
+    void test8() {
+        testCase("cbbd", "bb");
+    }
+
+    @Test
+    void test9() {
+        testCase("poprorpassaassad", "assaassa");
     }
 }
