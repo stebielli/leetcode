@@ -1,4 +1,4 @@
-package it.bielli.leetcode;
+package it.bielli.leetcode.random;
 
 /**
  * https://leetcode.com/problems/longest-palindromic-substring/

@@ -1,4 +1,4 @@
-package it.bielli.leetcode;
+package it.bielli.leetcode.random;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

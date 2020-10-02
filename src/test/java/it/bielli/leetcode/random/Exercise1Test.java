@@ -1,4 +1,4 @@
-package it.bielli.leetcode;
+package it.bielli.leetcode.random;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
