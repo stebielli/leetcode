@@ -1,4 +1,4 @@
-# leetcode exercises solutions
+# leetcode solutions
 
 This repository contains leetcode exercises's solutions.
 
