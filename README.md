@@ -1,3 +1,5 @@
 # leetcode exercises solutions
 
-This repository contains a set of solutions about leetcode exercises that I'm used to doing :)
+This repository contains leetcode exercises's solutions.
+
+Checkout leetcode website here https://leetcode.com/ 
