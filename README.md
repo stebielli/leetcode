@@ -2,4 +2,4 @@
 
 This repository contains leetcode exercises's solutions.
 
-Checkout my leetcode accout here https://leetcode.com/bielli/
+Checkout my leetcode profile here https://leetcode.com/bielli/
