@@ -1,4 +1,4 @@
-package it.bielli.leetcode.challenges.year2020.october;
+package it.bielli.leetcode.challenges.year2020.october.week1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

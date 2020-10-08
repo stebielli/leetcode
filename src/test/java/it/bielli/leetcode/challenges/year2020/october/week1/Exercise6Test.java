@@ -1,6 +1,6 @@
-package it.bielli.leetcode.challenges.year2020.october;
+package it.bielli.leetcode.challenges.year2020.october.week1;
 
-import it.bielli.leetcode.challenges.year2020.october.Exercise6.TreeNode;
+import it.bielli.leetcode.challenges.year2020.october.week1.Exercise6.TreeNode;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

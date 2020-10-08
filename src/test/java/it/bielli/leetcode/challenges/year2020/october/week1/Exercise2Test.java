@@ -1,10 +1,9 @@
-package it.bielli.leetcode.challenges.year2020.october;
+package it.bielli.leetcode.challenges.year2020.october.week1;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;

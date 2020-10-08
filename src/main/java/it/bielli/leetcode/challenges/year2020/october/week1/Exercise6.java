@@ -1,4 +1,4 @@
-package it.bielli.leetcode.challenges.year2020.october;
+package it.bielli.leetcode.challenges.year2020.october.week1;
 
 /**
  * https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/
