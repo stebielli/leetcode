@@ -13,9 +13,8 @@ public class Exercise7 {
             return asteroids;
 
         LinkedList<Integer> remainings = new LinkedList<>();
-        remainings.add(asteroids[0]);
-        for (int i = 1; i < asteroids.length; i++) {
-            int rightOne = asteroids[i];
+        for (int asteroid : asteroids) {
+            int rightOne = asteroid;
             if (rightOne < 0) {
                 Iterator<Integer> descendingIterator = remainings.descendingIterator();
                 while (descendingIterator.hasNext() && rightOne != 0) {
